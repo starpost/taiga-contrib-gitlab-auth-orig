@@ -1,0 +1,4 @@
+{
+  "tests/integration/test_auth_api.py": true,
+  "tests/unit/test_connectors_gitlab.py": true
+}
